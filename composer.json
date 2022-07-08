@@ -1,0 +1,16 @@
+{
+    "name": "vendor/stgsuiteapp",
+    "description": "Plugin to manage gsuite google mails",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "StandardTouch"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
